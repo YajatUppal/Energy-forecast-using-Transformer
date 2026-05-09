@@ -94,12 +94,6 @@ DL-energy-forecast/
 ├── models/
 │   └── saved trained models and weights
 │
-├── notebooks/
-│   └── exploration.ipynb
-│
-├── report/
-│   └── final report and slide deck
-│
 ├── src/
 │   ├── preprocessing.py
 │   ├── preprocessing_tetouan.py
@@ -111,8 +105,8 @@ DL-energy-forecast/
 │   ├── transformer_tetouan.py
 │   ├── plot_comparison.py
 │   ├── plot_comparison_tetouan.py
-│   ├── graphs.py
-│   └── evaluate.py
+│   └── graphs.py
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
